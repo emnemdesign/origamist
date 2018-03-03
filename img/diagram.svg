@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="377.79px" height="519.953px" viewBox="0 0 377.79 519.953" enable-background="new 0 0 377.79 519.953"
+	 xml:space="preserve">
+<symbol  id="Cut" viewBox="-27.768 -32 55.537 64">
+	<path d="M16.269-9c-2.421,0-4.664-0.752-6.517-2.029L5.85-6.383c2.885,1.123,5.955,2.785,7.716,5.133c4,5.334,13.166,18,14,21.5
+		C28.398,23.75,26.398,32,26.398,32L0,0.58L-26.398,32c0,0-2-8.25-1.166-11.75c0.833-3.5,10-16.166,14-21.5
+		c1.761-2.348,4.831-4.01,7.715-5.133l-3.902-4.646C-11.604-9.75-13.847-9-16.268-9c-6.352,0-11.5-5.148-11.5-11.5
+		c0-6.35,5.148-11.5,11.5-11.5s11.5,5.15,11.5,11.5c0,2.162-0.607,4.178-1.645,5.906l5.228,6.219c0,0,0.447,0.076,1.185,0.238
+		c0.738-0.162,1.185-0.238,1.185-0.238l5.228-6.219c-1.038-1.729-1.645-3.744-1.645-5.906c0-6.35,5.148-11.5,11.5-11.5
+		s11.5,5.15,11.5,11.5C27.769-14.148,22.62-9,16.269-9z M-16.268-26c-3.033,0-5.5,2.467-5.5,5.5s2.467,5.5,5.5,5.5
+		c3.033,0,5.5-2.467,5.5-5.5S-13.235-26-16.268-26z M16.269-26c-3.033,0-5.5,2.467-5.5,5.5s2.467,5.5,5.5,5.5
+		c3.033,0,5.5-2.467,5.5-5.5S19.301-26,16.269-26z"/>
+</symbol>
+<rect x="0.047" y="29.932" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="377.789" height="488.909"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="1,20,1,20,1,20" x1="177.833" y1="29.932" x2="177.833" y2="518.437"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="1,20,1,20,1,20" x1="377.84" y1="207.716" x2="0.05" y2="207.716"/>
+<use xlink:href="#Cut"  width="55.537" height="64" x="-27.768" y="-32" transform="matrix(-0.3878 0 0 0.3878 355.6177 13.5225)" overflow="visible"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="1,20,1,20,1,20" x1="355.614" y1="29.429" x2="355.614" y2="518.338"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="1,20,1,20,1,20" x1="-0.051" y1="385.497" x2="377.739" y2="385.497"/>
+</svg>
